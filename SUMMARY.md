@@ -13,4 +13,4 @@
 ***
 
 * [Mock](mock.md)
-* [常見測試理論](chang-jian-ce-shi-li-lun.md)
+* [常見測試方法](chang-jian-ce-shi-fang-fa.md)
